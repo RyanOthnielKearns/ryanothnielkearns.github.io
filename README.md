@@ -8,4 +8,4 @@ Previously, I studied [Philosophy](https://philosophy.stanford.edu) (BAH) and [C
 
 I also worked at [Monte Carlo Data](https://www.montecarlodata.com) as a Founding Data Scientist, did [NLP research](https://aclanthology.org/2022.findings-acl.317/) with [Stanford OVAL](https://oval.cs.stanford.edu), and wrote three chapters of the [Data Quality Fundamentals](https://www.oreilly.com/library/view/data-quality-fundamentals/9781098112035/) textbook with O'Reilly Media.
 
-You can email me by bruteforcing this Caesar Cipher using the ASCII alphabet: `krZg'd^Zkgl9hbb'hq'Z\'nd`
+You can email me by bruteforcing this Caesar Cipher using the ASCII alphabet: `ipXe%b\Xiej7f``%fo%XZ%lb`
