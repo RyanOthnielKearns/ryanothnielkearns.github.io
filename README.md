@@ -1,6 +1,6 @@
 I'm an MSc student at the [Oxford Internet Institute](https://www.oii.ox.ac.uk).
 
-I study epistemic infrastructure. Broadly construed, these are the socio-technical systems through which we create, cultivate, maintain, and disseminate knowledge. Wikipedia, arXiv, and Reddit are epistemic infrastructure. They inform much of our worldview, our bedrock for public discourse, and modern AI is critically dependent upon them.
+I study epistemic infrastructure. Broadly construed, these are the socio-technical systems through which we create, cultivate, maintain, and disseminate knowledge. Wikipedia, arXiv, and Reddit are epistemic infrastructure. They inform much of our worldview and our public discourse, and modern AI is critically dependent upon them.
 
 What unites these systems is that they are complex, networked, dynamic, linguistic, and politicized stores of information. We can use mathematical techniques—data science, network science, NLP, modal logic, computational social choice—to understand them. Specifically, we can understand their failure modes—echo chambers, disinformation, unconscious bias—and hopefully mitigate them.
 
