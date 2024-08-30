@@ -1,4 +1,4 @@
-I'm an MSc student at the [Oxford Internet Institute](https://www.oii.ox.ac.uk).
+I'm a student at the [Oxford Internet Institute](https://www.oii.ox.ac.uk).
 
 I study epistemic infrastructure. Broadly construed, these are the socio-technical systems through which we create, cultivate, maintain, and disseminate knowledge. Wikipedia, arXiv, and Reddit are epistemic infrastructure. They inform much of our worldview and our public discourse, and modern AI is critically dependent upon them.
 
