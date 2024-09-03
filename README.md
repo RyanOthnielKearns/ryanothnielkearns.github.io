@@ -9,3 +9,10 @@ Previously, I studied [Philosophy](https://philosophy.stanford.edu) (BAH) and [C
 I also worked at [Monte Carlo Data](https://www.montecarlodata.com) as a Founding Data Scientist, did [NLP research](https://aclanthology.org/2022.findings-acl.317/) with [Stanford OVAL](https://oval.cs.stanford.edu), and wrote three chapters of the [Data Quality Fundamentals](https://www.oreilly.com/library/view/data-quality-fundamentals/9781098112035/) textbook with O'Reilly Media.
 
 You can email me by bruteforcing this Caesar Cipher using the ASCII alphabet: ```ipXe%b\Xiej7f``%fo%XZ%lb```
+
+___
+
+- [X](https://www.x.com/RyanOthKearns)
+- [Substack](https://ryanothnielkearns.substack.com)
+- [Google Scholar](https://scholar.google.com/citations?user=O3dq-xkAAAAJ)
+- [Github](https://github.com/RyanOthnielKearns)
