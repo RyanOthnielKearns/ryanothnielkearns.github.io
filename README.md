@@ -16,3 +16,4 @@ ___
 - [Substack](https://ryanothnielkearns.substack.com)
 - [Google Scholar](https://scholar.google.com/citations?user=O3dq-xkAAAAJ)
 - [Github](https://github.com/RyanOthnielKearns)
+- [LinkedIn](https://www.linkedin.com/in/ryanothnielkearns/)
