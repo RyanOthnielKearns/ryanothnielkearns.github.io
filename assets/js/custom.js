@@ -20,3 +20,21 @@ function switchTheme(e) {
 }
 
 toggleSwitch.addEventListener('change', switchTheme, false);
+
+// Check if the user prefers dark mode
+const isDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+if (isDarkMode) {
+    localStorage.setItem('theme', 'dark');
+} else {
+    localStorage.setItem('theme', 'light');
+}
+
+// Listen for changes in the preference
+window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', event => {
+  if (event.matches) {
+    localStorage.setItem('theme', 'dark');
+  } else {
+    localStorage.setItem('theme', 'light');
+  }
+});
