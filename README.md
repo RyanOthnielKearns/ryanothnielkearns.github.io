@@ -22,10 +22,10 @@ I'm interested in lots of other questions that I don't get to work on, like:
 - Can science fiction help us
 [better conceptualize](https://www.sciphijournal.org/index.php/2017/11/12/why-the-culture-wins-an-appreciation-of-iain-m-banks/)
 the (im)possibility of post-envy societies?
-- Why is geometry suddenly everywhere—in
-[thought](https://direct.mit.edu/books/monograph/2532/Conceptual-SpacesThe-Geometry-of-Thought),
-in [culture](https://arxiv.org/abs/1803.09288), in
-[semantics](https://psycnet.apa.org/record/1997-03612-001), in
+- What explains the converging picture of geometric structures in
+[thought](https://direct.mit.edu/books/monograph/2532/Conceptual-SpacesThe-Geometry-of-Thought), 
+[culture](https://arxiv.org/abs/1803.09288),
+[semantics](https://psycnet.apa.org/record/1997-03612-001), and
 [transformers](https://arxiv.org/abs/2410.19750)?
 
 Previously, I studied [Philosophy](https://philosophy.stanford.edu) (BAH) and [Computer
