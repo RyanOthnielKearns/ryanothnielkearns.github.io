@@ -1,6 +1,6 @@
 I am:
-- An MSc and incoming DPhil student in the [Reasoning with Machines AI Lab](https://www.oii.ox.ac.uk/research/research-groups/reasoning-with-machines-ai-lab/), supervised by [Adam Mahdi](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=jUDSqzEAAAAJ&sortby=pubdate) at the [Oxford Internet Institute](https://www.oii.ox.ac.uk).
-- An inaugural Cosmos Fellow at the [Laboratory for Human-Centered
+- an MSc and incoming DPhil student in the [Reasoning with Machines AI Lab](https://www.oii.ox.ac.uk/research/research-groups/reasoning-with-machines-ai-lab/), supervised by [Adam Mahdi](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=jUDSqzEAAAAJ&sortby=pubdate) at the [Oxford Internet Institute](https://www.oii.ox.ac.uk);
+- an inaugural Cosmos Fellow at the [Laboratory for Human-Centered
   AI](https://hailab.ox.ac.uk/), supported by the [Cosmos
   Institute](https://cosmos-institute.org/).
 
