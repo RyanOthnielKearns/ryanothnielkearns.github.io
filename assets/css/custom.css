@@ -80,7 +80,7 @@ html[data-theme="dark"] h1 {
 }
 
 html[data-theme="dark"] .language-plaintext {
-    color: #ff9430;
+    color: #fefefe;
 }
 
 li a i {
@@ -107,5 +107,15 @@ html[data-theme="dark"] li a i {
 
 p a:hover {
     color: #ff9430;
+    font-weight: normal;
+}
+
+html[data-theme="dark"] a {
+    color: #d06a09;
+    font-weight: normal;
+}
+
+html[data-theme="dark"] a:hover {
+    color: #60b5ff;
     font-weight: normal;
 }
