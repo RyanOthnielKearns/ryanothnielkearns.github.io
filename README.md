@@ -1,11 +1,20 @@
 I am:
-- a DPhil (PhD) student in the [Reasoning with Machines Lab](https://www.oii.ox.ac.uk/research/research-groups/reasoning-with-machines-ai-lab/), supervised by [Adam Mahdi](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=jUDSqzEAAAAJ&sortby=pubdate) at the [Oxford Internet Institute](https://www.oii.ox.ac.uk);
-- an inaugural Cosmos Fellow at the [Laboratory for Human-Centered
-  AI](https://hailab.ox.ac.uk/), supervised by [Philipp Koralus](https://www.koralus.net/) and supported by the [Cosmos
-  Institute](https://cosmos-institute.org/).
+- a DPhil (PhD) student in the [Reasoning with Machines Lab](https://oxrml.github.io/),
+  supervised by [Adam Mahdi](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=jUDSqzEAAAAJ&sortby=pubdate)
+  at the [Oxford Internet Institute](https://www.oii.ox.ac.uk);
+- an inaugural Cosmos Fellow at the
+  [Laboratory for Human-Centered AI](https://hailab.ox.ac.uk/), supervised by
+  [Philipp Koralus](https://www.koralus.net/) and supported by the
+  [Cosmos Institute](https://cosmos-institute.org/).
+
+I research evaluations of AI systems. Evaluations are how we discover and
+characterise the space of intelligent behaviour in AI. I am concerned with building out
+a metrology for this evaluation practice (a scientific study of the measurement tools).
+So, you can think of my research as lens crafting, rather than astronomy—I build the
+"telescopes for intelligence" rather than the intelligent systems themselves.
 
 My academic work addresses the space of questions like these:
-- Do large language models have cognitive capabilities?
+- Do modern AI systems have cognitive capabilities?
 - How can we build valid measures of intelligent behaviour in machines?
 - How can we ascribe cognitive concepts to AI systems in an epistemologically and
 scientifically suitable way?
@@ -20,7 +29,7 @@ literature. More recently, I completed my MSc at the Oxford Internet Institute. 
 thesis addresses the more technical question of construct validity in large language
 model evaluations (and should be publicly available soon!)
 
-I was also a Founder in Residence at [Entrepreneur First](https://www.joinef.com/),
+I was also a Founder in Residence at [Entrepreneurs First](https://www.joinef.com/),
 worked at [Monte Carlo Data](https://www.montecarlodata.com) as a Founding Data
 Scientist, did [NLP research](https://aclanthology.org/2022.findings-acl.317/) with
 [Stanford OVAL](https://oval.cs.stanford.edu), and wrote three chapters of the [Data
